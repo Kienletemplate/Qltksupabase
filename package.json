@@ -1,0 +1,9 @@
+{
+  "name": "unify-account-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "vite build", "preview": "vite preview" },
+  "dependencies": { "@supabase/supabase-js": "^2.49.4", "lucide-vue-next": "^0.468.0", "vue": "^3.5.13" },
+  "devDependencies": { "@vitejs/plugin-vue": "^5.2.1", "vite": "^6.0.7" }
+}
